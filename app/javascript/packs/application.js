@@ -16,3 +16,6 @@ import 'bootstrap'
 
 require("trix")
 require("@rails/actiontext")
+
+import "@fortawesome/fontawesome-free/js/all";
+import "./custom";
